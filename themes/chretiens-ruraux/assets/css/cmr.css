@@ -1,0 +1,18 @@
+.elementor a,
+.entry-content a {
+  color: #1a936f;
+  text-decoration: underline;
+}
+.elementor a:hover,
+.entry-content a:hover {
+  color: #13aff0;
+}
+.elementor:focus, .elementor:visited, .elementor:active,
+.entry-content:focus,
+.entry-content:visited,
+.entry-content:active {
+  color: #1a936f;
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=cmr.css.map */

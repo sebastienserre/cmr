@@ -1,0 +1,17 @@
+.elementor,
+.entry-content{
+	a {
+		color: $vert_fonce;
+		text-decoration: underline;
+
+		&:hover {
+			color: $bleu_cmr;
+		}
+	}
+	&:focus,
+	&:visited,
+	&:active{
+		color: $vert_fonce;
+		text-decoration: underline;
+	}
+}
