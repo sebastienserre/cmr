@@ -83,3 +83,10 @@ function thfo_oceanwp_blog_post_related_query_args( $args ) {
 
 }
 add_filter( 'ocean_blog_post_related_query_args', 'thfo_oceanwp_blog_post_related_query_args' );
+
+add_filter( 'ocean_display_page_header', function ( $display ){
+	if ( is_home() || is_front_page() ){
+		return false;
+	}
+	return $display;
+} );
