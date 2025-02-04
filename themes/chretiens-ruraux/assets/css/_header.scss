@@ -1,0 +1,27 @@
+#site-header.medium-header #site-navigation-wrap,
+#site-header.medium-header .oceanwp-mobile-menu-icon,
+.is-sticky #site-header.medium-header.is-transparent #site-navigation-wrap,
+.is-sticky #site-header.medium-header.is-transparent .oceanwp-mobile-menu-icon,
+#site-header.medium-header.is-transparent .is-sticky #site-navigation-wrap,
+#site-header.medium-header.is-transparent .is-sticky .oceanwp-mobile-menu-icon {
+	background: $vert_clair !important;
+}
+
+div#site-header-inner {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+
+.top-header-wrap.clr {
+	width: 30%;
+}
+
+.bottom-header-wrap.clr {
+	width: 70%;
+}
+
+.donate-link {
+	background: $bleu_cmr;
+}

@@ -1,18 +1,54 @@
 .elementor a,
 .entry-content a {
-  color: #1a936f;
-  text-decoration: underline;
-}
-.elementor a:hover,
-.entry-content a:hover {
-  color: #13aff0;
-}
+  color: #80A11B;
+  text-decoration: underline; }
+  .elementor a:hover,
+  .entry-content a:hover {
+    color: #13aff0; }
 .elementor:focus, .elementor:visited, .elementor:active,
 .entry-content:focus,
 .entry-content:visited,
 .entry-content:active {
-  color: #1a936f;
-  text-decoration: underline;
-}
+  color: #80A11B;
+  text-decoration: underline; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #80A11B !important; }
+
+#site-header.medium-header #site-navigation-wrap,
+#site-header.medium-header .oceanwp-mobile-menu-icon,
+.is-sticky #site-header.medium-header.is-transparent #site-navigation-wrap,
+.is-sticky #site-header.medium-header.is-transparent .oceanwp-mobile-menu-icon,
+#site-header.medium-header.is-transparent .is-sticky #site-navigation-wrap,
+#site-header.medium-header.is-transparent .is-sticky .oceanwp-mobile-menu-icon {
+  background: #80A11B !important; }
+
+div#site-header-inner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center; }
+
+.top-header-wrap.clr {
+  width: 30%; }
+
+.bottom-header-wrap.clr {
+  width: 70%; }
+
+.donate-link {
+  background: #13aff0; }
+
+.VenteHeader {
+  background-color: #80A11B !important; }
+
+.elementor-9125 .elementor-element.elementor-element-4ae573e:not(.elementor-motion-effects-element-type-background), .elementor-9125 .elementor-element.elementor-element-4ae573e > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: #80A11B; }
+  .elementor-9125 .elementor-element.elementor-element-4ae573e:not(.elementor-motion-effects-element-type-background) h3, .elementor-9125 .elementor-element.elementor-element-4ae573e > .elementor-motion-effects-container > .elementor-motion-effects-layer h3 {
+    color: #ffffff !important; }
 
 /*# sourceMappingURL=cmr.css.map */

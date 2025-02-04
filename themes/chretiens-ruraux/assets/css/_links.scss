@@ -1,7 +1,7 @@
 .elementor,
 .entry-content{
 	a {
-		color: $vert_fonce;
+		color: $vert_clair;
 		text-decoration: underline;
 
 		&:hover {
@@ -11,7 +11,7 @@
 	&:focus,
 	&:visited,
 	&:active{
-		color: $vert_fonce;
+		color: $vert_clair;
 		text-decoration: underline;
 	}
 }
