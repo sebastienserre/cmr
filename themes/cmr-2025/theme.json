@@ -1,0 +1,84 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#80A11B",
+					"name": "Vert Clair",
+					"slug": "vert-clair"
+				},
+				{
+					"color": "#1a936f",
+					"name": "Vert Foncé",
+					"slug": "vert-fonce"
+				},
+				{
+					"color": "#13aff0",
+					"name": "Bleu CMR",
+					"slug": "bleu-cmr"
+				},
+				{
+					"color": "#191919",
+					"name": "Anthracite",
+					"slug": "anthracite"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Blanc",
+					"slug": "blanc"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "1280px",
+			"wideSize": "1600px"
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "caveat",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "400 700",
+							"src": [
+								"file:./assets/fonts/caveat/regular/caveat-regular.woff"
+							]
+						},
+						{
+							"fontFamily": "caveat",
+							"fontStretch": "normal",
+							"fontStyle": "bold",
+							"fontWeight": "400 700",
+							"src": [
+								"file:./assets/fonts/caveat/bold/caveat-bold.woff"
+							]
+						}
+					],
+					"fontFamily": "Caveat",
+					"name": "caveat",
+					"slug": "caveat"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "dosis",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "400 700",
+							"src": [
+								"file:./assets/fonts/dosis/dosis.woff"
+							]
+						}
+					],
+					"fontFamily": "Dosis",
+					"name": "dosis",
+					"slug": "dosis"
+				}
+			]
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
+}
