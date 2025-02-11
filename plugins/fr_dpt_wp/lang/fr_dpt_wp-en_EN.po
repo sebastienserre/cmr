@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Frdptwp\n"
+"POT-Creation-Date: 2018-05-09 12:51+0100\n"
+"PO-Revision-Date: 2018-05-09 12:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Alocal\\wp481\\wordpress\\wp-content\\plugins"
+"\\fr_dpt_wp\n"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:8
+msgid "Department settings"
+msgstr "Department settings"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:12
+msgid "Edit a department"
+msgstr "Edit a department"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:20
+msgid ""
+"To edit a department's settings, select it from the drop-down menu above."
+msgstr ""
+"To edit a department's settings, select it from the drop-down menu above."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:47
+msgid "Edit this department"
+msgstr "Edit this department"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:52
+msgid "Department name"
+msgstr "Department name"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:56
+msgid "Department color"
+msgstr "Department color"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:60
+msgid "Department link"
+msgstr "Department link"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:62
+msgid "To disable this department on your map, leave this field blank"
+msgstr "To disable this department on your map, leave this field blank"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:65
+msgid "Link target"
+msgstr "Link target"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:72
+msgid "_self: same window | _blank: new window"
+msgstr "_self: same window | _blank: new window"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:79
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:175
+msgid "Update"
+msgstr "Update"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:93
+msgid "Map settings"
+msgstr "Map settings"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:130
+msgid "Edit the map"
+msgstr "Edit the map"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:136
+msgid "Rollover color"
+msgstr "Rollover color"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:138
+msgid "Color of the departments at the mouse hover."
+msgstr "Color of the departments at the mouse hover."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:142
+msgid "Disabled color"
+msgstr "Disabled color"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:144
+msgid ""
+"Color of disabled departments (to disable a department, leave its 'URL' "
+"field blank, it will be considered as inactive."
+msgstr ""
+"Color of disabled departments (to disable a department, leave its 'URL' "
+"field blank, it will be considered as inactive."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:148
+msgid "Map stroke color"
+msgstr "Map stroke color"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:150
+msgid "Departments outlines color."
+msgstr "Departments outlines color."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:154
+msgid "Stroke width"
+msgstr "Stroke width"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:156
+msgid "Thickness of departments outlines, ex.: 0.6, 1.22, 4 ..."
+msgstr "Thickness of departments outlines, ex.: 0.6, 1.22, 4 ..."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:159
+msgid "Display D.O.M."
+msgstr "Display D.O.M."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:165
+msgid "Display regions outlines"
+msgstr "Display regions outlines"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:182
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:188
+msgid "Reset color"
+msgstr "Reset color"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:184
+msgid ""
+"Set the background color of the entire map by default. <br> Be careful, the "
+"colors previously saved by department will be overwritten!"
+msgstr ""
+"Set the background color of the entire map by default. <br> Be careful, the "
+"colors previously saved by department will be overwritten!"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:195
+msgid "Integration / Support"
+msgstr "Integration / Support"
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:197
+msgid ""
+"Use <strong>[frdpt]</strong> shortcode  in your pages or articles to display "
+"your map."
+msgstr ""
+"Use <strong>[frdpt]</strong> shortcode  in your pages or articles to display "
+"your map."
+
+#: C:\Alocal\wp481\wordpress\wp-content\plugins\fr_dpt_wp/admin.php:198
+msgid "Comersis Wordpress maps User Manual"
+msgstr "Comersis Wordpress maps User Manual"
