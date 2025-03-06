@@ -8,6 +8,11 @@
 					"slug": "vert-clair"
 				},
 				{
+					"color": "#c6dabf",
+					"name": "Vert pale",
+					"slug": "vert-pale"
+				},
+				{
 					"color": "#1a936f",
 					"name": "Vert Foncé",
 					"slug": "vert-fonce"
@@ -38,46 +43,110 @@
 				{
 					"fontFace": [
 						{
-							"fontFamily": "caveat",
-							"fontStretch": "normal",
+							"fontFamily": "Caveat",
 							"fontStyle": "normal",
-							"fontWeight": "400 700",
+							"fontWeight": "400",
 							"src": [
-								"file:./assets/fonts/caveat/regular/caveat-regular.woff"
+								"file:./assets/fonts/caveat/caveat-400-normal.woff2"
 							]
 						},
 						{
-							"fontFamily": "caveat",
-							"fontStretch": "normal",
-							"fontStyle": "bold",
-							"fontWeight": "400 700",
+							"fontFamily": "Caveat",
+							"fontStyle": "normal",
+							"fontWeight": "500",
 							"src": [
-								"file:./assets/fonts/caveat/bold/caveat-bold.woff"
+								"file:./assets/fonts/caveat/caveat-500-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Caveat",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/caveat/caveat-600-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Caveat",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/caveat/caveat-700-normal.woff2"
 							]
 						}
 					],
-					"fontFamily": "Caveat",
-					"name": "caveat",
+					"fontFamily": "Caveat, cursive",
+					"name": "Caveat",
 					"slug": "caveat"
 				},
 				{
 					"fontFace": [
 						{
-							"fontFamily": "dosis",
-							"fontStretch": "normal",
+							"fontFamily": "Dosis",
 							"fontStyle": "normal",
-							"fontWeight": "400 700",
+							"fontWeight": "200",
 							"src": [
-								"file:./assets/fonts/dosis/dosis.woff"
+								"file:./assets/fonts/dosis/dosis-200-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/dosis/dosis-300-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/dosis/dosis-400-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/dosis/dosis-500-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/dosis/dosis-600-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/dosis/dosis-700-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": [
+								"file:./assets/fonts/dosis/dosis-800-normal.woff2"
 							]
 						}
 					],
-					"fontFamily": "Dosis",
-					"name": "dosis",
+					"fontFamily": "Dosis, sans-serif",
+					"name": "Dosis",
 					"slug": "dosis"
 				}
 			]
 		}
+	},
+	"styles": {
+		"css": ".contact-fede {\n    max-height: 500px;\n}"
 	},
 	"version": 3,
 	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
