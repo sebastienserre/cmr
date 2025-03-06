@@ -1,3 +1,9 @@
+.wp-block-navigation .wp-block-navigation-item {
+  color: #ffffff; }
+  .wp-block-navigation .wp-block-navigation-item.donate {
+    font-family: Caveat;
+    font-size: 2em; }
+
 .home .ecs-event {
   background: #80A11B; }
 
